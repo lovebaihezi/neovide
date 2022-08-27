@@ -2,5 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://neovide.dev/</loc>
+        <lastmod>2022-08-27T07:02:15.930Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/command-line-reference</loc>
+        <lastmod>2022-08-27T07:02:15.642Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/configuration</loc>
+        <lastmod>2022-08-27T07:02:15.650Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/editing-with-external-tools</loc>
+        <lastmod>2022-08-27T07:02:15.698Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/faq</loc>
+        <lastmod>2022-08-27T07:02:15.758Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/features</loc>
+        <lastmod>2022-08-27T07:02:15.846Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/installation</loc>
+        <lastmod>2022-08-27T07:02:15.970Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/maintainer-cookbook</loc>
+        <lastmod>2022-08-27T07:02:15.982Z</lastmod>
+    </url>
+    <url>
+        <loc>https://neovide.dev/troubleshooting</loc>
+        <lastmod>2022-08-27T07:02:16.274Z</lastmod>
     </url>
 </urlset>
